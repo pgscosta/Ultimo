@@ -1,0 +1,50 @@
+<?php include_once 'cabecalho.php'; ?>
+<div class="container">
+    <h2 class="logo">Belo Horizonte</h2>
+    <br/>
+	<p>Locais de Realizaçao da Prova</p>
+ 
+	<h2>Mineirao</h2></br>
+	<p>
+       <h1> <img src="img/estadio.jpg" class="mineirao"> </h1>
+        
+	Localizado na Av. Antônio Abrahão Caran, 1001 - São José.Mineirao sera palco</br>
+	dos jogos olimpicos Rio 2016,o estadio fica localizado em uma importante regiao da cidade</br>
+	ladeado pela lagoa da pampulha e por famosos monumentos projetados por Oscar Niemeyer</br>
+	constituindo um belo palco para competiçoes olímpicas</p>
+	
+	<h2>Hoteis</h2></br>
+	<p>Aqui voce encontra as variedades de hoteis perto do estadio do mineirao.</p></br>
+	<p><img src="img/bristol.jpg" width="220" height="156">
+	Localizado na Avenida das Palmeiras,743-Sao Luiz o hotel fica a 0,5 km do estadio do mineirao</br>
+	Se deseja saber mais sobre este hotel acesse o link <a href=https://www.tripadvisor.com.br/Hotel_Review-g303374-d7021303-Reviews-Bristol_Alameda_Business_Hotel-Belo_Horizonte_State_of_Minas_Gerais.html>Bristol</a></br></p>
+	
+	
+	
+	
+	
+	<p><img src="img/hotel1.jpg" width="220" height="156">
+	Este apart-hotel 3 estrelas em Belo Horizonte, Lourdes, fica perto de Praça da Liberdade</br>
+<p>Localização</p>
+	
+<p>Em Lourdes, este apart-hotel fica a 15 minutos a pé de Vila Werneck e Praça da Liberdade.SESC Palladium e Museu Inimá de Paula também ficam a 10 minutos.
+Comodidades do estabelecimento </p></br>
+	
+	<p>Comodidades do estabelecimento</p>
+<p>Além de um restaurante, este apart-hotel tem piscina externa e uma sauna a vapor.Buffet de café da manhã grátis e Wi-Fi grátis nas áreas comuns também são oferecidos.Outras conveniências são um business center 24 horas, estacionamento com manobrista (sujeito a cobrança) e balcão de recepção 24 horas.
+Conveniências dos quartos
+Todos os 48 apartamentos oferecem cozinhas americanas com cooktops e micro-ondas, além de Wi-Fi grátis e TVs LCD com canais a cabo.Os hóspedes também encontrarão salas de estar, minibares e serviço de quarto.
+Selecione para ver maisSobre o hotel</p></br>
+	
+<h2>Restaurantes</h2></br>
+	<p><img src="img/restaurante1.jpg" width="220" height="156">
+        <p>O bar tem mesas espalhadas por dois terraços e oferece vista frontal da Lagoa da Pampulha, um dos principais pontos turísticos de Belo Horizonte. O recinto ficou famoso.</p></br>
+<p>A casa já tem 60 anos de tradição e bastante procurada por turistas. Entre os famosos pratos estão: Peixada à Moda, Paelha ou um delicioso Bacalhau Gomes de Sá.</p></br>
+
+<p><img src="img/resutarante2.jpg" width="220" height="156">
+    <p>La Palma, a mais nova opção gastronômica da cidade. Com a assinatura do Chef Ivo Faria, 
+a casa é um misto de restaurante e pizzaria, e oferece almoço executivo, happy hour com coquetéis, petiscos, pratos e pizzas diferenciadas. 
+Tudo isto em um local despojado, que transforma o La Palma em um ambiente super agradável.</p>
+Se deseja saber mais sobre este hotel acesse o link <a href=https://http://www.lapalmabh.com.br/>LaPalma</a></br>
+</div>
+<?php include_once 'rodape.php'; ?>

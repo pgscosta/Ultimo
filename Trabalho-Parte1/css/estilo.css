@@ -1,0 +1,187 @@
+body {
+  color: #000000;
+  background-color: #ffffff;
+  font-family: "Arial", arial;
+}
+
+header {
+  position: relative;
+}
+.logo{
+    background: url(../img/logoEmPg.png);
+    
+        font-size: 100px; 
+        padding-right: 3px; 
+        text-align: left;
+        width: 1400px;
+        padding-top: 8px;
+       
+
+
+}
+
+.login {
+  background: url(../img/login.png) no-repeat top right; 
+  font-size: 14px;
+  padding-right: 110px;
+  text-align: left;
+  width: 70px;
+  padding-top: 145px;
+}
+
+.login {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+}
+
+.menu {
+  
+  position: relative;
+  bottom: 0;
+  right: 0;
+}
+
+.menu ul {
+  font-size: 16px;
+}
+
+
+.menu ul li {
+  display: inline;
+  margin-left: 25px;
+}
++
+.menu a {
+  color: #000000;
+}
+
+.conteudo {
+  
+  position: relative;
+  bottom: 0;
+  right: 0;
+}
+
+.conteudo ul {
+  font-size: 54px;
+}
+
+
+.conteudo ul li {
+  display: inline-block;
+  margin-left: 410px;
+    line-height: 120px;
+}
+
+.conteudo a {
+  color: #000000;
+}
+
+.container {
+  margin: 0 auto;
+  width: 980px;
+}
+
+.busca h2,
+.busca form {
+	
+	margin: 10px;
+}
+
+h3 {
+	
+	padding-left: 185px;
+	
+	 text-align: left;
+}
+
+h4 {
+	
+	padding-left: 0px;
+	
+	 text-align: center;
+     
+}
+
+footer {
+    background-image: url(../img/FunRodaPe.png); 
+    clear: both;
+    padding: 20px 0;
+}
+
+.social a { 
+    /* tamanho da imagem */ 
+    height: 32px;
+    width: 32px;
+/* image replacement */ 
+    display: block;
+    text-indent: -9999px;
+}
+.social a[href*="facebook.com"] {
+    background-image: url(../img/facebook.png);
+}
+.social a[href*="twitter.com"] { 
+    background-image: url(../img/twitter.png); 
+}
+.social a[href*="plus.google.com"] {
+    background-image: url(../img/googleplus.png);
+} 
+.social a[href*="rio2016.com/"]{
+    background-image: url(../img/link_Oficial.jpg)
+}
+footer .container {
+    position: relative;
+}
+.social {
+    position: absolute;
+    top: 12px;
+    right: 0; 
+} 
+.social li {
+    float: left;
+    margin-left: 25px; 
+} 
+
+figure {
+    background-color: #F2EDED; 
+    border: 1px solid #ccc; 
+    text-align: center;
+}
+.passos1 {
+  background: url(../img/fundoAzul.png) no-repeat ; 
+ font-size: 50px;
+}
+
+.passos1 {
+  position: relative;
+  top: 0px;
+  right: 0px;
+}
+.marcacao {
+  
+ 
+    text-align: center;
+}
+
+.marcacao ul {
+  font-size: 16px;
+}
+
+
+.marcacao ul li {
+  display: inline;
+  margin-left: 160px;
+}
+
+.marcacao a {
+  color: #000000;
+
+    
+}
+.mineirao
+{
+	width="220" ;
+	height="156";
+	align = "left";
+}

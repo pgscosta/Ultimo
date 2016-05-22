@@ -1,0 +1,316 @@
+body {
+	color: #000000;
+	background-color: #ffffff;
+	font-family: "Arial", arial;
+	padding-bottom: 208px;
+	position: relative;
+	min-height: 100%;
+}
+
+html {
+  height: 100%;
+}
+
+header {
+	position: relative;
+}
+
+#logo {
+    width: 200px;
+    display: block;
+}
+#logo img {
+	max-width: 100%;
+}
+.login {
+	background: url(../img/login.png) no-repeat top right; 
+	font-size: 14px;
+	padding-right: 110px;
+	text-align: left;
+	width: 70px;
+	padding-top: 145px;
+}
+
+.login {
+	position: absolute;
+	top: 0px;
+	right: 0px;
+}
+
+.menu {
+	position: relative;
+	bottom: 0;
+	right: 0;
+    background: #EEE;
+    border: 1px solid #D6D6D6;
+    padding: 1px;
+}
+
+.menu ul {
+	font-size: 16px;
+    margin: 0;
+    display: inline-block;
+    width: 720px;
+}
+
+
+.menu ul li {
+	display: inline-block;
+}
+.menu ul li a {
+	font-weight: bold;
+	text-decoration: none;
+	display: block;
+	padding: 15px 10px;
+}
+.menu ul li a:hover {
+    background-color: #D4D4D4;
+}
+
+.menu a {
+	color: #000000;
+}
+
+.busca {
+	display: inline-block;
+	float: right;
+}
+.busca label, .busca form {
+	display: inline-block;
+}
+.busca label {
+	font-weight: bold;
+}
+
+.container {
+	width: 1060px;
+	margin: 0 auto;
+	display: block;
+}
+
+.conteudo {
+	
+	position: relative;
+	bottom: 0;
+	right: 0;
+}
+
+.conteudo ul {
+	font-size: 54px;
+}
+
+
+.conteudo ul li {
+	display: inline-block;
+	margin-left: 410px;
+		line-height: 120px;
+}
+
+.conteudo a {
+	color: #000000;
+}
+
+.container {
+	margin: 0 auto;
+	width: 980px;
+}
+
+.busca input[type="image"] {
+    margin: 10px;
+    vertical-align: middle;
+}
+.info {
+    width: 100%;
+    display: block;
+    text-align: center;
+}
+.info p {
+    background: #FFEFBC;
+    padding: 10px;
+    display: block;
+    border: 1px solid #FBDC78;
+    width: 500px;
+    margin: 10px auto 0;
+}
+
+h2 {
+    border-bottom: 1px solid #DDD;
+    padding-bottom: 10px;
+    margin-bottom: 30px;
+}
+h3 {
+	
+	 text-align: center;
+}
+
+h4 {
+	
+	padding-left: 0px;
+	
+	 text-align: center;
+		 
+}
+
+footer {
+	background-image: url(../img/FunRodaPe.png); 
+	clear: both;
+	padding: 20px 0;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    color: #FFF;
+}
+footer p {
+	text-align: center;
+	margin: 0;
+}
+
+.social a { 
+		/* tamanho da imagem */ 
+		height: 32px;
+		width: 32px;
+/* image replacement */ 
+		display: block;
+		text-indent: -9999px;
+}
+.social a[href*="facebook.com"] {
+		background-image: url(../img/facebook.png);
+}
+.social a[href*="twitter.com"] { 
+		background-image: url(../img/twitter.png); 
+}
+.social a[href*="plus.google.com"] {
+		background-image: url(../img/googleplus.png);
+} 
+.social a[href*="rio2016.com/"]{
+		background-image: url(../img/link_Oficial.jpg)
+}
+footer .container {
+		position: relative;
+}
+.social {
+		position: absolute;
+		top: 12px;
+		right: 0; 
+} 
+.social li {
+		float: left;
+		margin-left: 25px; 
+} 
+
+figure {
+		background-color: #F2EDED; 
+		border: 1px solid #ccc; 
+		text-align: center;
+}
+.passos1 {
+	background: url(../img/fundoAzul.png) no-repeat ; 
+ font-size: 50px;
+}
+
+.passos1 {
+	position: relative;
+	top: 0px;
+	right: 0px;
+}
+.marcacao {
+	
+ 
+		text-align: center;
+}
+
+.marcacao ul {
+	font-size: 16px;
+}
+
+
+.marcacao ul li {
+	display: inline;
+	margin-left: 160px;
+}
+
+.marcacao a {
+	color: #000000;
+
+		
+}
+.mineirao
+{
+	width: 220px;
+	height: 156px;
+	text-align: left;
+}
+
+#form-eventos {
+	margin: 50px 0px 30px;
+}
+#form-eventos label {
+	font-weight: bold;
+	margin: 15px 0 5px;
+}
+#form-eventos input, #form-eventos label {
+	display: block;
+}
+#form-eventos input, #form-eventos select, #form-eventos textarea {
+	border-radius: 3px;
+	padding: 5px;
+	border: 1px solid #DDD;
+	width: 100%;
+}
+#form-eventos input {
+	height: 30px;
+}
+#form-eventos button {
+    float: right;
+    margin: 20px 0;
+    border: 1px solid #24709A;
+    background: #6DB2D0;
+    padding: 7px 11px;
+    border-radius: 4px;
+    color: #FFF;
+    outline: 0;
+}
+#form-eventos button:hover {
+    background-color: #589FBD;
+}
+
+#lista-eventos {
+	margin: 50px 0;
+}
+table {
+	width: 100%;
+}
+table th {
+	background: #CCC;
+}
+table td {
+	background: #F9F9F9;
+}
+table td, table th {
+	border: 1px solid #DDD;
+	padding: 5px;
+}
+a {
+    color: #004A87;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+dt {
+	font-weight: bold;
+	text-align: right;
+}
+dd {
+	text-align: left;
+}
+dd, dt {
+	display: inline-block;
+	width: 40%;
+	margin: 8px 5px;
+}
+#edit-link {
+	font-size: 14px;
+	float: right;
+}
